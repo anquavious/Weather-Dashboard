@@ -8,13 +8,13 @@ This application was created to provide the weather outlook for multiple cities 
 
 Screenshots of Weather Dashboard
 
-![](Assets/Weather%20Dashboard%20screenshot1.PNG)
+![](Weather%20Dashboard%20screenshot1.PNG)
 
-![](Assets/Weather%20Dashboard%20screenshot2.PNG)
+![](Weather%20Dashboard%20screenshot2.PNG)
 
 Link to Weather Dashboard
 
-https://anquavious.github.io/Weather-Dashboard/
+
 
 ## License
 
